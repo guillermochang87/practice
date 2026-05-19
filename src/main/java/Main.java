@@ -1,5 +1,3 @@
-public class Main {
-    static void main() {
-        System.out.println("Hello World!");
-    }
+void main() {
+    IO.println("Hello World!");
 }
